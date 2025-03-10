@@ -15,5 +15,7 @@
 	"description" : {
 		"us": "Use python and the beautiful soup library to download, scrape, clean and visualize the revenue information from Tesla",
 		"es": "Usa Python y la biblioteca Beautiful Soup para descargar, extraer, limpiar y visualizar la información de ingresos de Tesla."
-	}
+	},
+	"gitpod": true,
+	"termplate_url": "self"
 }
